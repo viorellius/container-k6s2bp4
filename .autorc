@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "viorellius",
+  "repo": "container-k6s2bp4",
+  "name": "viorellius",
+  "email": "viorellius@yahoo.com",
+}
